@@ -356,7 +356,5 @@ def main():
     cv2.destroyAllWindows()
 
 
-# This only runs main() when you start this file directly,
-# not when another file does "import hamster".
 if __name__ == "__main__":
     main()
